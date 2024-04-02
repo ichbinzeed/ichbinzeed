@@ -29,4 +29,14 @@ I am actively seeking:
 - I have started taking **German classes**.
 - I am a Systems Analyst and a student of the Bachelor’s Degree in Data Science at the **Universidad Católica de Salta**.
 
+## Projects
+
+[![Imagen 1](autos.jpg)](https://github.com/ichbinzeed/Estudio-de-Mercado-para-Ingreso-de-Automotriz-China-Modelos-Predictivos-y-Conclusiones) 
+
+[![Imagen 2](steam.jpg)](https://github.com/ichbinzeed/FI-Henry-DS)
+
+[![Imagen 3](vial.jpg)](https://github.com/ichbinzeed/PI-Henry-2) 
+
+[![Imagen 4](vino.jpg)](https://github.com/ichbinzeed/practica)
+
 Feel free to connect with me! 🚀🌟
